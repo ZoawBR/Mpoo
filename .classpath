@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Mpoo_2019.1/08042019"/>
+	<classpathentry kind="src" path="Mpoo_2019.1/22042019"/>
+	<classpathentry kind="src" path="Mpoo_2019.1/29042019/usandoMVC"/>
+	<classpathentry kind="src" path="Mpoo_2019.1/estudo_1VA/sistemaLivraria"/>
+	<classpathentry kind="src" path="Mpoo_2019.1/estudo_1VA/sistemaLogin"/>
+	<classpathentry kind="src" path="Mpoo_2019.2/19082019"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

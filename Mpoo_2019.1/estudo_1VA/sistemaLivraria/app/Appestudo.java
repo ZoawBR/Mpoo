@@ -6,7 +6,7 @@ import view.TelaConsulta;
 import view.TelaMenu;
 import view.TelaVenda;
 
-public class App {
+public class Appestudo {
 
 	public static void main(String[] args) {
 		TelaMenu menu = new TelaMenu();

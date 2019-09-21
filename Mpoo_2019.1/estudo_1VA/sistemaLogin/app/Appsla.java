@@ -7,7 +7,7 @@ import view.Cadastrar;
 import view.Login;
 import view.Menu;
 
-public class App {
+public class Appsla {
 
 	public static void main(String[] args) {
 		BaseDeDados.adicionarUsuario(new Usuario("ze","12345","000.000.000-00"));

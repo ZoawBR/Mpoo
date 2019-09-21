@@ -39,14 +39,14 @@ public class BaseDados {
 		return null;
 	}
 	
-	public static boolean edtUsuario(Usuario usuarioAtual, Usuario usuarioNovo){
-		// não precisa
-//		Usuario usuarioTemp;
-//		usuarioTemp = bscUsuario(usuarioAtual.getLogin());
-		// remove tudo e depois add
-		rmvUsuario(bscUsuario(usuarioAtual.getLogin()));
-		addUsuario(usuarioNovo);
-	}
+//	public static boolean edtUsuario(Usuario usuarioAtual, Usuario usuarioNovo){
+//		// não precisa
+////		Usuario usuarioTemp;
+////		usuarioTemp = bscUsuario(usuarioAtual.getLogin());
+//		// remove tudo e depois add
+//		rmvUsuario(bscUsuario(usuarioAtual.getLogin()));
+//		addUsuario(usuarioNovo);
+//	}
 	
 	public static final ArrayList<Usuario> getUsuarios() {
 		return usuarios;
