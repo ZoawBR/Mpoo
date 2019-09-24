@@ -17,7 +17,7 @@ public class ViewTela extends JFrame implements Observer {
 		setDefaultCloseOperation(EXIT_ON_CLOSE); 
 		setResizable(false);
 		setLocationRelativeTo(null); 
-		setLayout(new FlowLayout());
+		setLayout(null);
 		
 		label = new JLabel("0");
 		label.setFont(new Font("Verdana", Font.BOLD + Font.ITALIC, 70));
